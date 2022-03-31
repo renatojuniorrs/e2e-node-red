@@ -1,0 +1,19 @@
+{
+  "name": "e2e-node-red",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renatojuniorrs/e2e-node-red.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renatojuniorrs/e2e-node-red/issues"
+  },
+  "homepage": "https://github.com/renatojuniorrs/e2e-node-red#readme"
+}
