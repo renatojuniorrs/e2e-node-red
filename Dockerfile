@@ -1,5 +1,5 @@
 # syntax=docker/dockerfile:1
-FROM ubuntu:18.04
+FROM node:14-buster-slim
 COPY . .
 RUN npm install
 ENTRYPOINT [ "npm start" ]
