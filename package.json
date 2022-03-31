@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/renatojuniorrs/e2e-node-red/issues"
   },
-  "homepage": "https://github.com/renatojuniorrs/e2e-node-red#readme"
+  "homepage": "https://github.com/renatojuniorrs/e2e-node-red#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "node-red": "^2.2.2"
+  }
 }

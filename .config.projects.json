@@ -1,0 +1,8 @@
+{
+    "projects": {
+        "node-red-version-control": {
+            "credentialSecret": "levande@admin"
+        }
+    },
+    "activeProject": "node-red-version-control"
+}
